@@ -14,7 +14,7 @@ $ cd frontend
 
 $ npm install
 
-In the index.js file and specify the database.
+In the index.js file please specify the database. (Later shall be facilitated on the UI itself)
 
 $ ng serve
 
