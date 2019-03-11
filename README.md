@@ -14,6 +14,8 @@ $ cd frontend
 
 $ npm install
 
+In the index.js file and specify the database.
+
 $ ng serve
 
 localhost:4200
