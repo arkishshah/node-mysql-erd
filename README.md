@@ -4,7 +4,7 @@ Application to connect to the MySQL database and dynamically generate relationsh
 
 ### Steps to run the application.
 
-Download and extract erdgen.zip 
+Download and extract erdgenproject.zip 
 
 $ cd erdgenproject
 
