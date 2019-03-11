@@ -1,7 +1,10 @@
 # node-mysql-erd
+
 Application to connect to the MySQL database and dynamically generate relationship diagrams.
 
-Steps to run the application.
+### Steps to run the application.
+
+Download and extract erdgen.zip 
 
 $ cd erdgenproject
 
