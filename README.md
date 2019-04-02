@@ -1,6 +1,6 @@
 # node-mysql-erd
 
-Application renders the following services:
+## Application renders the following services:
 
 ### 1) Connects to MySQL database and displays a list of tables for users to select from.
 ### 2) Dynamically generates entitly relationship diagram for the selected schema.
@@ -23,7 +23,8 @@ Installation:
 Step 1: Go to node app folder (erd-node-master)
 Step 2: Create file .env
 Step 3: Copy paste following details:
-	NODE_ENV= development
+	
+NODE_ENV= development
 DB_HOST= localhost
 DB_USER= ‘Your Username’
 DB_PASS= ‘Your Password’ 
