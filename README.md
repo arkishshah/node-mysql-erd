@@ -21,23 +21,36 @@ Installation:
 ### Environment:
 
 Step 1: Go to node app folder (erd-node-master)
+
 Step 2: Create file .env
+
 Step 3: Copy paste following details:
 	
 NODE_ENV= development
+
 DB_HOST= localhost
+
 DB_USER= ‘Your Username’
+
 DB_PASS= ‘Your Password’ 
 
 ### Run:
 
 Step 1: Go to the node app folder
+
 Step 2: For dependency installation run below command
+
 $ npm install
+
 Step 3: To run app
+
 	$ npm start (or) node ./bin/www
+	
+	
 Step 4: Verification Test for the API’s the app is running or not
+
 1.	http://localhost:3001/api/databases
+
 2.	http://localhost:3001/api/database/your database name
 
 ### Angular:
@@ -45,15 +58,22 @@ Step 4: Verification Test for the API’s the app is running or not
 Installation:
 
 1.	Angular-CLI
+
 2.	NPM
 
 Run:
 
 Step 1: Go to the Angular app folder (erd-angular-master)
+
 Step 2: For dependency installation run below command
-$ npm install
+
+	$ npm install
+	
 Step 3: To run app
+
 	$ ng serve
+	
 Step 4: Test
+
 	http://localhost:4200
 
