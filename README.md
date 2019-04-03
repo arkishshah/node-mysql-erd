@@ -1,4 +1,4 @@
-# Node-mysql-ERDiagram
+# Node-Mysql-ERDiagram
 
 ## Application renders the following services:
 
