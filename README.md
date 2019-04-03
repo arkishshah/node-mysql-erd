@@ -40,7 +40,8 @@ Step 1: Go to the node app folder
 
 Step 2: For dependency installation run below command
 
-$ npm install
+
+	$ npm install
 
 Step 3: To run app
 
