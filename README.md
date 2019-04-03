@@ -8,7 +8,7 @@
 
 ## Steps to run the application.
 
-Once the following folders are loaded in the workspace, initiate two separate terminals for running the node and angular application.
+Once the Node-MySQL-ERDiagram folder is extracted and loaded in the workspace, initiate two separate terminals for running the node and angular application.
 
 ### Nodejs:
 
