@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/arkishshah/node-mysql-erd)](https://github.com/arkishshah/node-mysql-erd/blob/master/LICENSE)
+
 # Node-Mysql-ERDiagram
 
 ## Application renders the following services:
